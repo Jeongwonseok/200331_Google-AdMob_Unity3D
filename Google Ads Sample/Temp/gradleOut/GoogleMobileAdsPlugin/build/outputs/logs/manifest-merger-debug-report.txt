@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Temp/gradleOut/GoogleMobileAdsPlugin/AndroidManifest.xml:7:1-14:12
+INJECTED from /Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Temp/gradleOut/GoogleMobileAdsPlugin/AndroidManifest.xml:7:1-14:12
+INJECTED from /Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Temp/gradleOut/GoogleMobileAdsPlugin/AndroidManifest.xml:7:1-14:12
+INJECTED from /Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Temp/gradleOut/GoogleMobileAdsPlugin/AndroidManifest.xml:7:1-14:12
+INJECTED from /Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Temp/gradleOut/GoogleMobileAdsPlugin/AndroidManifest.xml:7:1-14:12
+INJECTED from /Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Temp/gradleOut/GoogleMobileAdsPlugin/AndroidManifest.xml:7:1-14:12
+INJECTED from /Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Temp/gradleOut/GoogleMobileAdsPlugin/AndroidManifest.xml:7:1-14:12
+	package
+		ADDED from /Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Temp/gradleOut/GoogleMobileAdsPlugin/AndroidManifest.xml:8:5-35
+		INJECTED from /Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Temp/gradleOut/GoogleMobileAdsPlugin/AndroidManifest.xml
+		INJECTED from /Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Temp/gradleOut/GoogleMobileAdsPlugin/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Temp/gradleOut/GoogleMobileAdsPlugin/AndroidManifest.xml:9:5-30
+		INJECTED from /Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Temp/gradleOut/GoogleMobileAdsPlugin/AndroidManifest.xml
+		INJECTED from /Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Temp/gradleOut/GoogleMobileAdsPlugin/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Temp/gradleOut/GoogleMobileAdsPlugin/AndroidManifest.xml:7:11-69
+	android:versionCode
+		ADDED from /Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Temp/gradleOut/GoogleMobileAdsPlugin/AndroidManifest.xml:10:5-28
+		INJECTED from /Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Temp/gradleOut/GoogleMobileAdsPlugin/AndroidManifest.xml
+		INJECTED from /Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Temp/gradleOut/GoogleMobileAdsPlugin/AndroidManifest.xml
+application
+ADDED from /Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Temp/gradleOut/GoogleMobileAdsPlugin/AndroidManifest.xml:11:3-13:17
+uses-library#org.apache.http.legacy
+ADDED from /Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Temp/gradleOut/GoogleMobileAdsPlugin/AndroidManifest.xml:12:5-83
+	android:required
+		ADDED from /Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Temp/gradleOut/GoogleMobileAdsPlugin/AndroidManifest.xml:12:19-43
+	android:name
+		ADDED from /Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Temp/gradleOut/GoogleMobileAdsPlugin/AndroidManifest.xml:12:44-81
+uses-sdk
+INJECTED from /Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Temp/gradleOut/GoogleMobileAdsPlugin/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Temp/gradleOut/GoogleMobileAdsPlugin/AndroidManifest.xml
+INJECTED from /Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Temp/gradleOut/GoogleMobileAdsPlugin/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Temp/gradleOut/GoogleMobileAdsPlugin/AndroidManifest.xml
+		ADDED from /Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Temp/gradleOut/GoogleMobileAdsPlugin/AndroidManifest.xml
+		INJECTED from /Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Temp/gradleOut/GoogleMobileAdsPlugin/AndroidManifest.xml

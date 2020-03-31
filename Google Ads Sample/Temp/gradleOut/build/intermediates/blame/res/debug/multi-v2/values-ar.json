@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Temp/gradleOut/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml",
+            "map": [
+                {
+                    "source": "/Users/jws/.gradle/caches/transforms-2/files-2.1/2f2d70b175b0aacd80ae7d2e7c6cccb1/res/values-ar/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "188",
+                        "endOffsets": "435"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "188",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/Users/jws/.gradle/caches/transforms-2/files-2.1/3bfa49d6c10c44935f62bd86bc7914fb/res/values-ar/values-ar.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "862",
+                        "endColumns": "100",
+                        "endOffsets": "958"
+                    }
+                },
+                {
+                    "source": "/Users/jws/.gradle/caches/transforms-2/files-2.1/3a6d1f78c0a9157711889cdef873f235/res/values-ar/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "199,266,375,437,498,571,669",
+                        "endColumns": "66,108,61,60,72,97,69",
+                        "endOffsets": "265,374,436,497,570,668,738"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "294,365,478,544,609,686,788",
+                        "endColumns": "70,112,65,64,76,101,73",
+                        "endOffsets": "360,473,539,604,681,783,857"
+                    }
+                }
+            ]
+        }
+    ]
+}
