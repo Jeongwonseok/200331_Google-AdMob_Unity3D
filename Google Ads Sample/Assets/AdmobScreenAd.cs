@@ -8,14 +8,14 @@ public class AdmobScreenAd : MonoBehaviour
     private readonly string unitID = "ca-app-pub-3940256099942544/1033173712";
     private readonly string test_unitID = "ca-app-pub-3940256099942544/1033173712";
 
-    private readonly string test_deviceID = "";
+    private readonly string test_deviceID = "33BE2250B43518CCDA7DE426D04EE231";
 
     private InterstitialAd screedAd;
 
     private void Start()
     {
         InitAd();
-        Invoke("Show", 10f);
+        Invoke("Show", 10f); // 10초 뒤 전면 광고 실행
     }
 
     private void InitAd()

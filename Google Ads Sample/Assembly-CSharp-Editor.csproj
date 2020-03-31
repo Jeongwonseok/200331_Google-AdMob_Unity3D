@@ -303,11 +303,11 @@
     <Reference Include="Google.VersionHandler">
       <HintPath>/Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll</HintPath>
     </Reference>
-    <Reference Include="Google.IOSResolver_v1.2.136.0">
-      <HintPath>/Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.136.0.dll</HintPath>
-    </Reference>
     <Reference Include="Google.VersionHandlerImpl_v1.2.136.0">
       <HintPath>/Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.136.0.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.IOSResolver_v1.2.136.0">
+      <HintPath>/Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.136.0.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
       <HintPath>/Users/jws/Desktop/200331_Google-AdMob_Unity3D/Google Ads Sample/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
